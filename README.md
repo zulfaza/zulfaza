@@ -21,5 +21,3 @@ Nx (Monorepo), GitHub, CI/CD pipelines
 - ✉️ Email: [zulfazamakarima@gmail.com](mailto:zulfazamakarima@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/zul-faza-makarima](https://www.linkedin.com/in/zul-faza-makarima/)  
 - 🧑‍💻 GitHub: [github.com/zulfaza](https://github.com/zulfaza)  
-
-Feel free to reach out for collaboration, questions, or if you're just curious about how to make pizza ordering more awesome 😄.
